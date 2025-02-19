@@ -27,6 +27,7 @@ Olá! Meu nome é Bruno e sou estudante de engenharia de software no 1* semestre
 />
 
 </br>
+</br>
 
 ### 📊 Estatísticas  
 
