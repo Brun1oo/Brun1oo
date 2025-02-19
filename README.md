@@ -4,6 +4,12 @@ Olá! Meu nome é Bruno e sou estudante de engenharia de software no 1* semestre
 
 ### 🤖 Linguagens e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
+<img 
+   align="left" 
+   alt="GoogleCloud"
+   title="GoogleCloud" 
+   width="30px" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" 
+          />
           
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brun1oo&theme=tokyonight&layout=compact)
