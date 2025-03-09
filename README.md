@@ -1,8 +1,7 @@
 # 👩🏻‍💻 Bruno Correa
 
-Olá! Meu nome é Bruno e sou estudante de engenharia de software no 1* semestre. Tenho grande interesse na área de dados e estou estundando para expandir meus conhecimentos em inteligencia artificial, SQL, python e Power BI.
-</br>
-Estarei usando o GitHub para publicar projetos e registrar coisas básicas, permitindo que eu acompanhe minha evolução futuramente, como um caderno virtual.
+Olá! Sou Bruno Correa, um estudante de engenharia de software no primeiro semestre, com um grande interesse na área de dados. Atualmente, estou focado em expandir meus conhecimentos em inteligência artificial, SQL, Python e Power BI. </br>
+Utilizarei o GitHub como um portfólio para meus projetos e um registro do meu aprendizado, acompanhando minha evolução como um diário virtual.
 
 ---
 ### 🤖 Linguagens e Tecnologias
